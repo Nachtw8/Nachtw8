@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nachtw8
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Frontend development.
-- 💞️ I’m looking to collaborate on a course about this item.
+- 💞️ I’m looking to collaborate on coding with HTML, CSS and Javascripting.
 - 📫 How to reach me nachtw81@gmail.com
 
 <!---
